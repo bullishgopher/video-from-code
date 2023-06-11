@@ -1,7 +1,6 @@
 # Apple "Wow!" - Remotion Video
 
-<video autoplay>
-  <source src="./wow.mp4" type="video/mp4">
+<video src="./wow.mp4" autoplay>
 </video>
 
 ## Commands
