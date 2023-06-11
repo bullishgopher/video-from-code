@@ -1,5 +1,7 @@
 # Apple "Wow!" - Remotion Video
 
+![rendered video](./wow.mp4)
+
 ## Commands
 
 **Install Dependencies**
